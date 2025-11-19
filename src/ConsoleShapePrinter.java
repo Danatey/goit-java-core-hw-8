@@ -1,7 +1,3 @@
-package classes;
-
-import interfaces.ShapePrinter;
-
 public class ConsoleShapePrinter implements ShapePrinter {
 
     @Override

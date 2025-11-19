@@ -1,5 +1,3 @@
-package classes;
-
 public class Rhombus extends Shape {
     public  final static String RHOMBUS = "rhombus";
 
